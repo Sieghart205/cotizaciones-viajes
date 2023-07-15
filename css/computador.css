@@ -1,0 +1,51 @@
+img{
+    margin: 25px;
+    width: 15vw;
+}
+
+body{
+    padding-top: 10vh;
+}
+
+.data{
+    padding: 0px 10px 0px 10px;
+}
+
+input{
+    box-shadow: 5px 5px 7px rgba(0,0,0,0.3);
+}
+
+p{
+    text-transform: uppercase;
+}
+
+.container{
+    align-items: center;
+}
+
+.headerdata{
+    position: absolute;
+    left:6%;
+}
+
+#cotizacionId{
+    width: 6vw;
+}
+
+.ctextHotel{
+    width: 315px;
+}
+
+.txt{
+    margin: 25px;
+}
+
+.planSpace{
+    margin: 5px;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+.encabezado{
+    text-align: center;
+}
